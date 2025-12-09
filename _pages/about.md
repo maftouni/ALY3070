@@ -7,15 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-One Last Note for ALY3070
+## One Last Note for ALY3070
 
-As we wrap up the semester, I want to leave you with one small but powerful suggestion.
+As we wrap up the semester, I want to leave you with one small but meaningful suggestion.
 
-You didn’t just learn tools this term, you learned how to think, design, and tell stories with data. Your final project reflects that, and it deserves a home beyond this class.
+You didn’t just learn tools this term.  
+You learned how to **think**, **design**, and **tell stories with data**.
 
-If you haven’t already, take a few minutes to publish a simple personal website and add your final project as your first portfolio piece. This is the kind of work employers want to see: real data, thoughtful design, and clear communication.
+Your final project reflects that.
 
-I’ve shared a short guide to help you deploy your site in just a couple of minutes. No pressure, no perfection, just a first step.
+### ✨ Let it live beyond this class
+If you haven’t already, take a few minutes to publish a simple personal website and add your final project as your **first portfolio piece**. This is exactly the kind of work employers look for:
+- real data  
+- thoughtful visual design  
+- clear, intentional communication  
 
-You’ve done meaningful work this semester. I hope you’re proud of it.
-Wishing you a restful break and all the best ahead
+I’ve shared a short guide that walks you through deploying your site in just a couple of minutes.  
+No pressure. No perfection. Just a first step.
+
+###  A final thought
+You’ve done meaningful work this semester, and I hope you’re proud of it.  
+Thank you for the care, curiosity, and effort you brought to this course.
+
+Wishing you a restful break and all the best in what comes next.
+
